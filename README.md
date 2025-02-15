@@ -21,23 +21,32 @@ To Run This Project On Your Laptop.Follow These Steps:--
      npm i
    ```
 
-1.Add .env Folder
+# Create a .env file and add the following variables
+MAIL_HOST=
 
-MAIL_HOST = 
-MAIL_USER = 
-MAIL_PASS = 
-JWT_SECRET = 
-FOLDER_NAME = 
+MAIL_USER=
 
-RAZORPAY_KEY = 
-RAZORPAY_SECRET = 
+MAIL_PASS=
 
-CLOUD_NAME = 
-API_KEY = 
-API_SECRET = 
+JWT_SECRET=
 
-MONGODB_URL = 
-PORT = 4000
+FOLDER_NAME=
+
+RAZORPAY_KEY=
+
+RAZORPAY_SECRET=
+
+CLOUD_NAME=
+
+API_KEY=
+
+API_SECRET=
+
+
+MONGODB_URL=
+
+PORT=4000(Default)
+
 
 
 1. Start the development server.
