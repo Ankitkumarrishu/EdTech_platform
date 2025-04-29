@@ -1,5 +1,5 @@
 # StudyNotion
-
+live -https://edtechplateform.netlify.app/
 
 ## 🚀 Getting Started
 
